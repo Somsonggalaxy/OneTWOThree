@@ -1,6 +1,6 @@
 package com.dailycodebuffer.Springbootdepartment.repository;
 
-import com.dailycodebuffer.Springbootdepartment.entity.Department;
+import com.dailycodebuffer.Springbootdepartment.model.Department;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
